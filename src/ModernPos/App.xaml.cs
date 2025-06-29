@@ -1,4 +1,4 @@
-﻿namespace ModernPosApp;
+﻿namespace ModernPos;
 
 public partial class App : Application
 {

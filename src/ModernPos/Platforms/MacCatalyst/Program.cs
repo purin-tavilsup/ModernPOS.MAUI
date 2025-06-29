@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace ModernPosApp;
+namespace ModernPos;
 
 public class Program
 {

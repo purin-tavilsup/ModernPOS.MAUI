@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModernPos", "src\ModernPos\ModernPos.csproj", "{CF67A797-ED62-41C0-9890-358D910F3685}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{4963E62F-9A9B-46B1-94DF-14F8BE007A0B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{EF94D616-80C3-4EB9-9CDC-52108EF62E00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF67A797-ED62-41C0-9890-358D910F3685}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF67A797-ED62-41C0-9890-358D910F3685}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF67A797-ED62-41C0-9890-358D910F3685}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF67A797-ED62-41C0-9890-358D910F3685}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CF67A797-ED62-41C0-9890-358D910F3685} = {4963E62F-9A9B-46B1-94DF-14F8BE007A0B}
+	EndGlobalSection
+EndGlobal

@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace ModernPosApp;
+namespace ModernPos;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate

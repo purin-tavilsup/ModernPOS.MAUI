@@ -2,7 +2,7 @@ using System;
 using Microsoft.Maui;
 using Microsoft.Maui.Hosting;
 
-namespace ModernPosApp;
+namespace ModernPos;
 
 class Program : MauiApplication
 {
